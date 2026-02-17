@@ -16,16 +16,16 @@ const noMessages = [
     "yezitchi ble 5ra mte3ek ...💩🤬",
     "5irlek raho ... 🥱",
     "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "iyy emchi 3ed ...",
+    "e5er forsa ! 😭",
+    "haya 3ala faza ma3ach tnjame tchedo boutton bara 7asser  🤪"
 ]
 
 const yesTeasePokes = [
     "cliki 3ala no ... a3mel feha 7ob 3ziz 😏",
     "ti emchi , enzel no ... 7ata mara ya 5arya 💩🤬",
     "ti maw 9olna enzel no 😈",
-    "enzel no , sayabna 😏"
+    "enzel no , sayabna ya mardh 😤😤😤😤"
 ]
 
 let yesTeasedCount = 0
