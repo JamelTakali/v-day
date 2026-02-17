@@ -15,7 +15,6 @@ const noMessages = [
     "ti haya 3eeed... 🥺",
     "yezitchi ble 5ra mte3ek ...💩🤬",
     "5irlek raho ... 🥱",
-    "Please??? 💔",
     "iyy emchi 3ed ...",
     "e5er forsa ! 😭",
     "haya 3ala faza ma3ach tnjame tchedo boutton bara 7asser  🤪"
